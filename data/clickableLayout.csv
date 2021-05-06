@@ -1,0 +1,17 @@
+ID,Name,State,PNGFilename,Text,x,y,visible
+0,Start,Characters,,Start ,100,650,yes
+1,Compensate_the_Tourists,Problem1,,Compensate the Tourists,100,600,yes
+2,ReAssure_the_City,Problem1,,Re-Assure the City,400,600,yes
+3,Blame_the_AI1,Problem1,,Blame the AI,700,600,yes
+4,Dodge_the_lawsuit,Problem2,,Dodge the lawsuit with city lawyers,100,600,yes
+5,Pay_the_7_million,Problem2,,Pay the 7 million,400,600,yes
+6,Blame_the_AI2,Problem2,,Blame the AI,700,600,yes
+7,Pay_for_their_new_plane_tickets,Problem3,,Pay for their new plane tickets,100,600,yes
+8,Apologize_and_assure_there_are_no_errors,Problem3,,Apologize and assure there are no errors,400,600,yes
+9,Blame_the_AI3,Problem3,,Blame the AI,700,600,yes
+10,Pay_for_damages,Problem4,,Pay for damages,100,600,yes
+11,Dodge_the_lawsuit_with_city_lawyers,Problem4,,Dodge the lawsuit with city lawyers,400,600,yes
+12,Blame_the_AI4,Problem4,,Blame the AI,700,600,yes
+13,Compensate_them_for_their_troubles,Problem5,,Compensate them for their troubles,100,600,yes
+14,Issue_a_Public_statement_and_apology,Problem5,,Issue a Public statement and apology,400,600,yes
+15,Blame_the_AI5,Problem5,,Blame the AI,700,600,yes
